@@ -8,7 +8,7 @@ A clean Spring Boot REST API that fetches company data from a static XML API and
 
 ## Table of Contents
 
-- [Architecture](#architecture)
+- [Sequence Diagram](#sequence-diagram)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
