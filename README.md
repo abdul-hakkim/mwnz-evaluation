@@ -21,7 +21,7 @@ A clean Spring Boot REST API that fetches company data from a static XML API and
 
 ---
 
-## Architecture
+## Sequence Diagram
 
 ```mermaid
 sequenceDiagram
